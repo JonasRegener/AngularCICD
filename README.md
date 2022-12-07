@@ -1,0 +1,1 @@
+Hier entsteht eine Angular APP die über ein Tool mit einem FTP Server verbunden wird. Und diese gemäß CI/CD Updated.
